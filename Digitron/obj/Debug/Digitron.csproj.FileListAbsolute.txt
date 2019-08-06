@@ -1,0 +1,19 @@
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\bin\Debug\Digitron.exe.config
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\bin\Debug\Digitron.exe
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\bin\Debug\Digitron.pdb
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\obj\Debug\Digitron.Form1.resources
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.Cache
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\obj\Debug\Digitron.exe
+c:\users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\obj\Debug\Digitron.pdb
+C:\Users\praksa01\documents\visual studio 2012\Projects\Digitron\Digitron\obj\Debug\Digitron.csprojResolveAssemblyReference.cache
+C:\Users\Smiljana\Desktop\Digitron\Digitron\bin\Debug\Digitron.exe.config
+C:\Users\Smiljana\Desktop\Digitron\Digitron\bin\Debug\Digitron.exe
+C:\Users\Smiljana\Desktop\Digitron\Digitron\bin\Debug\Digitron.pdb
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.csprojAssemblyReference.cache
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.Form1.resources
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.Properties.Resources.resources
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.csproj.GenerateResource.cache
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.csproj.CoreCompileInputs.cache
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.exe
+C:\Users\Smiljana\Desktop\Digitron\Digitron\obj\Debug\Digitron.pdb
